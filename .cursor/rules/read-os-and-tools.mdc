@@ -1,0 +1,6 @@
+---
+description: Load OS and VM-managed tool paths before any terminal or tool use
+alwaysApply: true
+---
+
+Read `OS_AND_TOOLS.md` at the repo root before shell commands or tool invocations. Use only the paths and shell documented there.

@@ -1,0 +1,9 @@
+﻿---
+description: VibeMagic Desktop project defaults for smart-money-concepts
+globs:
+alwaysApply: true
+---
+
+# VibeMagic Desktop project
+
+Treat this folder as the project root. Do not assume the parent dev directory is the workspace.

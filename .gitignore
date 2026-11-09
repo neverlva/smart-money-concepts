@@ -3,3 +3,10 @@ dist
 smartmoneyconcepts.egg-info
 .DS_Store
 __pycache__
+
+# --- VM Wizard managed (do not edit) ---
+.vm/
+.tools/
+*.code-workspace
+.vm-wizard.code-workspace
+CLAUDE.local.md
