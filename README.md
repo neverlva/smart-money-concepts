@@ -179,3 +179,5 @@ This project is still in BETA so please feel free to contribute to the project. 
 ## Disclaimer
 
 This project is for educational purposes only. Do not use this indicator as a sole decision maker for your trades. Always use proper risk management and do your own research before making any trades. The author of this project is not responsible for any losses you may incur.
+
+(c) Valera Lavrov
